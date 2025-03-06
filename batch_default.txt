@@ -1,0 +1,6 @@
+@ default SBEbatch processing file
+@    1        2          3          4             5       
+@ cast name, outut dir, con file, datcnv.psa, binavg.psa
+
+datcnv /i%1.hex /o%2 /c%3 /p%4 /f%1_24Hz.cnv
+binavg /i%1_24Hz.cnv /o%2 /p%5 /f%1.cnv /a_1db

@@ -1,0 +1,57 @@
+CalcID,UnitID,xmlName,SensorID,Index,ShortName,FullName,Observed in instrument,Unit,FriendlyName,Min,Max,Seasave,DatCnv,ASCII_IN,NOTES,R2R_911
+1,29,AltimeterSensor,0,,altM,Altimeter [m],,m,alt M,0.000000,100.000000,yes,yes,yes,,yes
+5,46,TransChelseaSeatechWetlabCStarSensor,59,,xmiss,"Beam Transmission, Chelsea/Seatech [%]",,%,xmiss,0.000000,100.000000,yes,yes,yes,,yes
+6,46,TransWetlabAC3Sensor,60,,wetBTrans,"Beam Transmission, WET Labs AC3 [%]",,%,wetBTrans,0.000000,100.000000,yes,yes,yes,,yes
+179,46,WET_LabsCStar,71,,CStarTr0,"Beam Transmission, WET Labs C-Star [%]",,%,CStarTr,0.000000,1000.000000,yes,yes,yes,Seasave supports as many as 6,yes
+12,58,ConductivitySensor,3,1,c0S/m,Conductivity [S/m],"SBE4/9plus, SBE25",S/m,c S/m,0.000000,7.000000,yes,yes,yes,,yes
+70,49,,3,1,sal00,"Salinity, Practical [PSU]",derived,PSU,sal,26.000000,36.000000,yes,yes,yes,,yes
+15,11,,3,1,density00,"Density [density, kg/m^3]",derived,"density, kg/m^3",density,99.000000,1100.000000,yes,yes,yes,,yes
+21,-1,FluoroBiosphericalSensor,4,,naFluor,"Fluorescence, Biospherical Natural",,NO_UNIT,naFluor,0.000000,100.000000,yes,yes,yes,,yes
+24,60,FluoroChelseaAqua3Sensor,5,,flC,"Fluorescence, Chelsea Aqua 3 Chl Con [ug/l]",,ug/l,flC,0.000000,100.000000,yes,yes,yes,,yes
+25,60,FluoroChelseaMinitrackaSensor,6,,flCM,"Fluorescence, Chelsea Mini Chl Con [ug/l]",,ug/l,flCM,0.000000,100.000000,yes,yes,yes,,yes
+113,60,FluoroChelseaUV_AquaSensor,7,,flCUVA,"Fluorescence, Chelsea UV Aquatracka [ug/l]",,ug/l,flCUVA,0.000000,100.000000,yes,yes,yes,,yes
+26,-1,FluoroDrHaardtChloroSensor,8,,haardtC,"Fluorescence, Dr. Haardt Chlorophyll a",,NO_UNIT,haardtC,0.000000,100.000000,yes,yes,yes,,yes
+27,-1,FluoroDrHaardtPhycoSensor,9,,haardtP,"Fluorescence, Dr. Haardt Phycoerythrin",,NO_UNIT,haardtP,0.000000,100.000000,yes,yes,yes,,yes
+28,-1,FluoroDrHaardtYellowSensor,10,,haardtY,"Fluorescence, Dr. Haardt Yellow Sub",,NO_UNIT,haardtY,0.000000,100.000000,yes,yes,yes,,yes
+29,-1,FluoroSeapointSensor,11,,flSP,"Fluorescence, Seapoint",,NO_UNIT,flSP,0.000000,100.000000,yes,yes,yes,,yes
+100,-1,FluoroSeapointRhodaSensor,12,,flSPR,"Fluorescence, Seapoint Rhodamine",,NO_UNIT,flSPR,0.000000,100.000000,yes,yes,yes,,yes
+30,-1,FluoroSeatechWetlabsFLF_Sensor,13,,flS,"Fluorescence, Seatech",,NO_UNIT,flS,0.000000,100.000000,yes,yes,yes,,yes
+31,-1,FluoroTurner10005Sensor,14,,flT,"Fluorescence, Turner 10-005",,NO_UNIT,flT,0.000000,100.000000,yes,yes,yes,"FluoroTurnerRangeSensor, SensorID=15 must also be present",yes
+32,-1,FluoroTurner10Au005Sensor,16,,flTAu,"Fluorescence, Turner 10-Au-005",,NO_UNIT,flTAu,0.000000,100.000000,yes,yes,yes,,yes
+91,-1,FluoroTurnerSCUFA_Sensor,17,,flScufa,"Fluorescence, Turner SCUFA [RFU]",,NO_UNIT,flScufa,0.000000,100.000000,yes,yes,yes,,yes
+33,24,FluoroWetlabAC3Sensor,18,,wetChAbs,"Fluorescence, WET Labs AC3 Absorption [1/m]",,1/m,wetChAbs,0.000000,100.000000,yes,yes,yes,,yes
+101,38,FluoroWetlabCDOM_Sensor,19,,wetCDOM,"Fluorescence, WET Labs CDOM [mg/m^3]",,mg/m^3,wetCDOM,0.000000,100.000000,yes,yes,yes,,yes
+93,38,FluoroWetlabECO_AFL_FL_Sensor,20,,flECO-AFL,"Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]",,mg/m^3,eco-afl,0.000000,100.000000,yes,yes,yes,,yes
+35,38,FluoroWetlabWetstarSensor,21,,wetStar,"Fluorescence, WET Labs WETstar [mg/m^3]",,mg/m^3,WETstar,0.000000,100.000000,yes,yes,yes,,yes
+109,24,SuspSedScatterSensor,52,,lisstBC,"LISST-25A, Beam C [1/m]",,1/m,lisstBC,0.000000,100.000000,yes,yes,yes,,yes
+110,46,SuspSedTransSensor,53,,lisstOT,"LISST-25A, Optical Transmission [%]",,%,lisstOT,0.000000,100.000000,yes,yes,yes,,yes
+207,66,ParticleMeanDiameterSensor,81,,,"LISST-200X, Sauter Mean Diameter [u]",,,,,,,,,,yes
+208,89,ParticleTotalVolumeConcSensor,82,,,"LISST-200X, Total Volume Conc. [ppm]",,,,,,,,,,yes
+106,64,MethaneConcCAPSUM_Sensor,24,,meth,"Methane Conc., Franatech METS [umol/l]",,umol/l,meth,0.000000,100.000000,yes,yes,yes,,yes
+107,7,MethaneTempCAPSUM_Sensor,25,,methT,"Methane Gas Temp., Franatech METS [deg C]",,deg C,methT,0.000000,100.000000,yes,yes,yes,,yes
+45,45,OBS_DA_3BackscatteranceSensor,28,,obs,"OBS, Backscatterance (D & A) [NTU]",,NTU,obs,0.000000,100.000000,yes,yes,yes,,yes
+46,21,OBS_ChelseaNepheloSensor,29,,nephc,"OBS, Chelsea Nephelometer [FTU]",,FTU,nephc,0.000000,100.000000,yes,yes,yes,,yes
+118,45,OBS_3plusSensor,63,,obs3+,"OBS, D & A 3plus [NTU]",,NTU,obs3+,0.000000,100.000000,yes,yes,yes,,yes
+47,-1,OBS_DrHaardtTurbiditySensor,30,,haardtT,"OBS, Dr. Haardt Turbidity",,NO_UNIT,haardtT,0.000000,100.000000,yes,yes,yes,,yes
+48,-1,OBS_IFREMER_DirectSensor,31,,diff,"OBS, IFREMER",,NO_UNIT,diff,0.000000,100.000000,yes,yes,yes,,yes
+50,-1,SeatechLS6000WetlabsLBSS_Sensor,34,,stLs6000,"OBS, Seatech LS6000",,NO_UNIT,stLs6000,0.000000,100.000000,yes,yes,yes,,yes
+94,45,OBS_TurnerSCUFA_Sensor,35,,obsscufa,"OBS, Turner SCUFA [NTU]",,NTU,obsscufa,0.000000,100.000000,yes,yes,yes,,yes
+58,42,OxidationReductionPotentialSensor,41,,orp,Oxidation Reduction Potential [mV],,mV,orp,0.000000,100.000000,yes,yes,yes,,yes
+52,59,OxygenSensor,36,,oxC,"Oxygen Current, Beckman/YSI [uA]",,uA,oxc,0.000000,100.000000,yes,yes,yes,,yes
+56,7,OxygenSensor,39,,oxTC,"Oxygen Temperature, Beckman/YSI [deg C]",,deg C,oxT C,0.000000,35.000000,yes,yes,yes,,yes
+53,40,OxygenSensor,37,,iowOxML/L,"Oxygen, IOW [ml/l]",,ml/l,iowox ml/l,0.000000,10.000000,yes,yes,yes,"Oxygen Current, IOW is SensorID 37. Oxygen Temperature, IOW, Sensor iD 40 must also be present.",yes
+55,40,OxygenSensor,38,,sbeox0ML/L,"Oxygen, SBE 43 [ml/l]","SBE43/9plus, SBE43/25",ml/l,sbeox ml/l,0.000000,10.000000,yes,yes,yes,,yes
+55,61,OxygenSensor,38,,sbeox0Mm/Kg,"Oxygen, SBE 43 [umol/kg]","SBE43/9plus, SBE43/25",umol/kg,sbeox mm/kg,0.000000,100.000000,yes,yes,yes,,yes
+59,-1,PAR_BiosphericalLicorChelseaSensor,42,,par,"PAR/Irradiance, Biospherical/Licor [umol photons/m^2/sec]",,NO_UNIT,par,0.000000,100.000000,yes,yes,yes,,yes
+201,-1,PARLog_SatlanticSensor,59,,,"PAR/Logarithmic, Satlantic [umol photons/m^2/sec]",,,,,,,,,,yes
+65,3,PressureSensor,45,,prDM,"Pressure, Digiquartz [db]",SBE9plus,db,pr M,0.000000,100.000000,yes,yes,no,,yes
+17,31,,45,,depSM,"Depth [salt water, m]",derived,"salt water, m",depS M,0.000000,100.000000,yes,yes,yes,,yes
+77,-1,SPAR_Sensor,51,,spar,"SPAR, Biospherical/Licor [umol photons/m^2/sec]",,NO_UNIT,spar,0.000000,100.000000,yes,yes,yes,,yes
+205,-1,SPAR_SatlanticSensor,79,,,"SPAR/Linear, Satlantic [umol photons/m^2/sec]",,,,,,,,,,yes
+209,-1,SPARLog_SatlanticSensor,83,,,"SPAR/Logarithmic, Satlantic [umol photons/m^2/sec]",,,,,,,,,,yes
+81,6,TemperatureSensor,55,0,t090C,"Temperature [ITS-90, deg C]","SBE3/9plus, SBE25","ITS-90, deg C",t 90 C,0.000000,30.000000,yes,yes,no,,yes
+49,21,OBS_SeapointTurbiditySensor,33,,seaTurbMtr,"Turbidity, Seapoint [FTU]",,FTU,seaTurbMtr,0.000000,100.000000,yes,yes,yes,,yes
+149,71,TurbidityMeter,70,,turbWETbb0,"Turbidity, WET Labs ECO BB [m^-1/sr]",,m^-1/sr,turbWETbb,0.000000,100.000000,yes,yes,yes,,yes
+206,-1,UserExponentialSensor,80,,,"User Exponential, 1",,,,,,,,,,yes
+87,-1,UserPolynomialSensor,61,,upoly0,"User Polynomial, 1",,NO_UNIT,upoly,0.000000,100.000000,yes,yes,yes,,yes
+90,44,ZapsSensor,62,,zaps,Zaps [nmol],,nmol,zaps,0.000000,100.000000,yes,yes,yes,,yes

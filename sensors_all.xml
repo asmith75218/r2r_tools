@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data_Conversion >
+  <CalcArray Size="-999" >
+    <CalcArrayItem index="-999" CalcID="1" >
+      <Calc UnitID="29" Ordinal="0" >
+        <FullName value="Altimeter$ordinal [m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="12" >
+      <Calc UnitID="58" Ordinal="0" >
+        <FullName value="Conductivity$ordinal [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="21" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Biospherical Natural$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="24" >
+      <Calc UnitID="60" Ordinal="0" >
+        <FullName value="Fluorescence, Chelsea Aqua 3 Chl Con$ordinal [ug/l]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="25" >
+      <Calc UnitID="60" Ordinal="0" >
+        <FullName value="Fluorescence, Chelsea Mini Chl Con$ordinal [ug/l]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="113" >
+      <Calc UnitID="60" Ordinal="0" >
+        <FullName value="Fluorescence, Chelsea UV Aquatracka$ordinal [ug/l]" />
+      </Calc>
+    </CalcArrayItem>
+      <CalcArrayItem index="-999" CalcID="26" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Dr. Haardt Chlorophyll a$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="27" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Dr. Haardt Phycoerythrin$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="28" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Dr. Haardt Yellow Sub$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="29" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Seapoint$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="100" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Seapoint Rhodamine$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="30" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Seatech$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="31" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Turner 10-005$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="32" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Turner 10-Au-005$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="91" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Fluorescence, Turner SCUFA$ordinal [mg/m^3]" />
+        <SCUFA_Units value="6" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="33" >
+      <Calc UnitID="24" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs AC3 Absorption$ordinal [1/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="101" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs CDOM$ordinal [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="93" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs ECO-AFL/FL$ordinal [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="35" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs WETstar$ordinal [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="106" >
+      <Calc UnitID="64" Ordinal="0" >
+        <FullName value="Methane Conc., Franatech METS$ordinal [umol/l]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="107" >
+      <Calc UnitID="7" Ordinal="0" >
+        <FullName value="Methane Gas Temp., Franatech METS$ordinal [deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="45" >
+      <Calc UnitID="45" Ordinal="0" >
+        <FullName value="OBS, Backscatterance (D &amp; A)$ordinal [NTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="118" >
+      <Calc UnitID="45" Ordinal="0" >
+        <FullName value="OBS, D &amp; A 3plus$ordinal [NTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="46" >
+      <Calc UnitID="21" Ordinal="0" >
+        <FullName value="OBS, Chelsea Nephelometer$ordinal [FTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="47" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="OBS, Dr. Haardt Turbidity$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="48" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="OBS, IFREMER$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="49" >
+      <Calc UnitID="21" Ordinal="0" >
+        <FullName value="Turbidity, Seapoint$ordinal [FTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="50" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="OBS, Seatech LS6000$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="94" >
+      <Calc UnitID="45" Ordinal="0" >
+        <FullName value="OBS, Turner SCUFA$ordinal [NTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="149" >
+      <Calc UnitID="71" Ordinal="0" >
+        <FullName value="Turbidity, WET Labs ECO BB$ordinal [m^-1/sr]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="150" >
+      <Calc UnitID="45" Ordinal="0" >
+        <FullName value="Turbidity, WET Labs ECO$ordinal [NTU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="52" >
+      <Calc UnitID="59" Ordinal="0" >
+        <FullName value="Oxygen Current, Beckman/YSI$ordinal [uA]" />
+        <WindowSize value="2.000000" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="56" >
+      <Calc UnitID="7" Ordinal="0" >
+        <FullName value="Oxygen Temperature, Beckman/YSI$ordinal [deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="53" >
+      <Calc UnitID="40" Ordinal="0" >
+        <FullName value="Oxygen, IOW$ordinal [ml/l]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="55" >
+      <Calc UnitID="40" Ordinal="0" >
+        <FullName value="Oxygen, SBE 43$ordinal [ml/l]" />
+        <WindowSize value="2.000000" />
+        <ApplyHysteresisCorrection value="1" />
+        <ApplyTauCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="55" >
+      <Calc UnitID="61" Ordinal="0" >
+        <FullName value="Oxygen, SBE 43$ordinal [umol/kg]" />
+        <WindowSize value="2.000000" />
+        <ApplyHysteresisCorrection value="1" />
+        <ApplyTauCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="58" >
+      <Calc UnitID="42" Ordinal="0" >
+        <FullName value="Oxidation Reduction Potential$ordinal [mV]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="59" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="PAR/Irradiance, Biospherical/Licor$ordinal [umol photons/m^2/sec]" />
+        <PAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="201" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="PAR/Logarithmic, Satlantic$ordinal [umol photons/m^2/sec]" />
+        <PAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="60" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="pH$ordinal " />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="65" >
+      <Calc UnitID="3" Ordinal="0" >
+        <FullName value="Pressure, Digiquartz$ordinal [db]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="66" >
+      <Calc UnitID="28" Ordinal="0" >
+        <FullName value="Pressure, FGP$ordinal [KPa]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="77" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="SPAR, Biospherical/Licor$ordinal [umol photons/m^2/sec]" />
+        <SPAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="205" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="SPAR/Linear, Satlantic$ordinal [umol photons/m^2/sec]" />
+        <SPAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="109" >
+      <Calc UnitID="24" Ordinal="0" >
+        <FullName value="LISST-25A, Beam C$ordinal [1/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="110" >
+      <Calc UnitID="46" Ordinal="0" >
+        <FullName value="LISST-25A, Optical Transmission$ordinal [%]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="207" >
+      <Calc UnitID="66" Ordinal="0" >
+        <FullName value="LISST-200X, Sauter Mean Diameter$ordinal [u]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="208" >
+      <Calc UnitID="89" Ordinal="0" >
+        <FullName value="LISST-200X, Total Volume Conc.$ordinal [ppm]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="81" >
+      <Calc UnitID="6" Ordinal="0" >
+        <FullName value="Temperature$ordinal [ITS-90, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="5" >
+      <Calc UnitID="46" Ordinal="0" >
+        <FullName value="Beam Transmission, Chelsea/Seatech$ordinal [%]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="6" >
+      <Calc UnitID="46" Ordinal="0" >
+        <FullName value="Beam Transmission, WET Labs AC3$ordinal [%]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="179" >
+      <Calc UnitID="46" Ordinal="0" >
+        <FullName value="Beam Transmission, WET Labs C-Star$ordinal [%]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="206" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Uexpo 0, usrexpname$ordinal [usrexpunits]" />
+        <CalcName value="usrexpname" />
+        <CalcUnits value="usrexpunits" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="87" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Upoly 0, usrpolyname$ordinal " />
+        <CalcName value="usrpolyname" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="90" >
+      <Calc UnitID="44" Ordinal="0" >
+        <FullName value="Zaps$ordinal [nmol]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="209" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="SPAR/Logarithmic, Satlantic$ordinal [umol photons/m^2/sec]" />
+        <SPAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="17" >
+      <Calc UnitID="31" Ordinal="0" >
+        <FullName value="Depth$ordinal [salt water, m]" />
+        <Latitude value="0.000000" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="70" >
+      <Calc UnitID="49" Ordinal="0" >
+        <FullName value="Salinity, Practical$ordinal [PSU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="15" >
+      <Calc UnitID="11" Ordinal="0" >
+        <FullName value="Density$ordinal [density, kg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="39" >
+      <Calc UnitID="4" Ordinal="0" >
+        <FullName value="Latitude [deg]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="40" >
+      <Calc UnitID="4" Ordinal="0" >
+        <FullName value="Longitude [deg]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="-999" CalcID="69" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Pump Status" />
+      </Calc>
+    </CalcArrayItem>
+  </CalcArray>
+</Data_Conversion>
