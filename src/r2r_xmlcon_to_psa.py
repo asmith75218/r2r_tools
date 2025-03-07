@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-
+Parses a SBE911 CTD configuration from its XMLCON file, and generates a
+DataConversion PSA setup file.
 """
 import argparse
 from pathlib import Path
